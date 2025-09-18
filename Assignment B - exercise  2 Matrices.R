@@ -1,3 +1,6 @@
+
+  
+
 ##Exercises 1: VECTORS 
 #Problem 1a
 onea <- 1:20
